@@ -1,0 +1,20 @@
+[
+  {
+    "Barcode": 9781473638136,
+    "Book Title": "How to run and grow your own business",
+    "Author Name": "Kevin Duncan",
+    "Price": "500Rs"
+  },
+  {
+    "Barcode": 972137000000,
+    "Book Title": "To Kill a Mockingbird",
+    "Author Name": "Ab",
+    "Price": "50Rs"
+  },
+  {
+    "Barcode": 1234567890128,
+    "Book Title": "The 10X rule",
+    "Author Name": "Grant Cardone",
+    "Price": "250Rs"
+  }
+]
